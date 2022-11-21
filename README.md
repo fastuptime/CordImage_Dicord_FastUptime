@@ -6,6 +6,7 @@
 - Boostlu Discord Sunucunuz Var İse O sunucuyu kullanın.
 - Config.js Dosyasını Kendinize Göre Ayarlayın.
 - [Tanıtım Videosu](https://youtu.be/UyQxh4lyXOg)
+- [Glitch](https://glitch.com/edit/#!/glamorous-northern-emmental)
 
 # Resimler
 ![image](https://user-images.githubusercontent.com/63351166/202912007-53942553-b60d-44ea-8778-934f777eb2c5.png)
