@@ -6,7 +6,7 @@
 - If you have a Boosted Discord Server, use that server.
 - Adjust the Config.js File According to Yourself.
 - [Promotional Video](https://youtu.be/UyQxh4lyXOg)
-- [Glitch](https://glitch.com/edit/#!/glamorous-northern-emmental)
+- [Glitch Edit](https://glitch.com/edit/#!/glamorous-northern-emmental)
 
 # 🎈 Images 🎈
 ![image](https://user-images.githubusercontent.com/63351166/202912007-53942553-b60d-44ea-8778-934f777eb2c5.png)
