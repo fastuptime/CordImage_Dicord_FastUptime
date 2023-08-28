@@ -1,4 +1,4 @@
-# CordImage_Dicord_FastUptime
+# CordImage Dicord FastUptime
 ---
 
 - It is strictly forbidden to use for monetisation purposes.
